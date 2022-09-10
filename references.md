@@ -1,3 +1,2 @@
-# References
 
-* octocat 1 😈
+Any conflict will cause conflict
